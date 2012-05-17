@@ -1,0 +1,10 @@
+GIT
+  remote: https://github.com/fnichol/chef-ruby_build.git
+  ref: v0.6.2
+  sha: 2e45dc11b4f98175cc1f70ad254e22aab213cfb4
+  specs:
+    ruby-build (0.6.2)
+
+DEPENDENCIES
+  ruby-build (>= 0)
+
